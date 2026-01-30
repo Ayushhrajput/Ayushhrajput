@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Ayushhrajput/Ayushhrajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey there, I'm Ayush 👋  
+# Hey there, I'm Ayush Raj👋  
 
 🎓 **B.Sc. Computer Science & Data Analytics** @ IIT Patna  
 💡 Passionate about blending **AI with Full-Stack Development**  
