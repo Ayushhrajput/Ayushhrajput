@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hey there, I'm Ayush 👋  
+
+🎓 **B.Sc. Computer Science & Data Analytics** @ IIT Patna  
+💡 Passionate about blending **AI with Full-Stack Development**  
+🔭 Currently exploring **Machine Learning, MERN stack, and Data Visualization**  
+⚙️ Tech Stack: Python | JavaScript | React | Node.js | MongoDB | Express  
+🌱 Learning more about **AI integration in web apps**  
+📫 Reach me at: [LinkedIn](linkedin.com/in/ayushh-rajput) 
+
+---
+
+
